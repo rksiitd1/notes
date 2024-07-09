@@ -5,4 +5,8 @@ title: Home
 
 # Welcome to My Markdown Site
 
-Here is some content.
+This is the home page of your GitHub Pages site. Below are some links to your Markdown files.
+
+## Markdown Files
+
+- [React Setup and Deployment Guide](./react-setup-deployment-guide.md)
