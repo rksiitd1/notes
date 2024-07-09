@@ -10,3 +10,6 @@ This is the home page of your GitHub Pages site. Below are some links to your Ma
 ## Markdown Files
 
 - [React Setup and Deployment Guide](./react-setup-deployment-guide.md)
+- [Guide to Markdown Syntax](./markdown-syntax-guide.md)
+- [Jekyll Site with GitHub Pages](./jekyll-github-pages-guide.md)
+
