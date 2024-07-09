@@ -12,4 +12,6 @@ This is the home page of your GitHub Pages site. Below are some links to your Ma
 - [React Setup and Deployment Guide](./react-setup-deployment-guide.md)
 - [Guide to Markdown Syntax](./markdown-syntax-guide.md)
 - [Jekyll Site with GitHub Pages](./jekyll-github-pages-guide.md)
+- [Jekyll Site Customization](./jekyll-config-customization-guide.md)
+- [YAML Syntax: A Comprehensive Guide](./yaml-syntax-guide.md)
 
