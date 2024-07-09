@@ -1,7 +1,9 @@
-theme: minima
-minima:
-  skin: classic
-  social_links:
-    twitter: rksiitd
-    github: rksiitd1
-    linkedin: rksiitd
+theme: jekyll-theme-minimal
+social_links:
+  twitter: rksiitd
+  github: rksiitd1
+  linkedin: rksiitd
+  instagram: rksiitd
+  threads: rksiitd
+  medium: rksiitd
+  youtube: rksiitd
